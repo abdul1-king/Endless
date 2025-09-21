@@ -1,0 +1,8 @@
+for i in {1..10}
+do
+  echo "Commit ke-$i" >> history.txt
+  git add history.txt
+  git commit -m "Commit ke-$i"
+done
+
+git push origin main
