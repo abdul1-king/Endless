@@ -1,0 +1,3 @@
+echo "- Fitur 1: Login" >> project.txt
+git add .
+git commit -m "Tambah fitur login ke daftar"
