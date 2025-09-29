@@ -1,0 +1,3 @@
+echo "- Fitur 2: Dashboard" >> project.txt
+git add .
+git commit -m "Tambah fitur dashboard ke daftar"
