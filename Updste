@@ -1,0 +1,3 @@
+sed -i 's/Progress: 20% selesai/Progress: 50% selesai/' project.txt
+git add .
+git commit -m "Update progress menjadi 50%"
