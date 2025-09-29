@@ -1,0 +1,3 @@
+echo "Progress: 20% selesai" >> project.txt
+git add .
+git commit -m "Tambah catatan progress awal"
