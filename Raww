@@ -1,0 +1,4 @@
+git init
+echo "Project dimulai" > project.txt
+git add .
+git commit -m "Inisialisasi project dengan file project.txt"
