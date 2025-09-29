@@ -1,0 +1,3 @@
+sed -i 's/TODO: Implementasi fitur login/TODO: Implementasi fitur login (pakai token JWT)/' project.txt
+git add .
+git commit -m "Update TODO fitur login dengan detail JWT"
