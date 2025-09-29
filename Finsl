@@ -1,0 +1,3 @@
+echo "Dokumentasi: Jalankan dengan 'python app.py'" >> project.txt
+git add .
+git commit -m "Tambah dokumentasi singkat cara menjalankan"
