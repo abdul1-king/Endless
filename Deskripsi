@@ -1,0 +1,3 @@
+echo "Deskripsi: Project contoh untuk latihan commit." >> project.txt
+git add .
+git commit -m "Tambah deskripsi ke project.txt"
