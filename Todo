@@ -1,0 +1,3 @@
+echo "TODO: Implementasi fitur login" >> project.txt
+git add .
+git commit -m "Tambah TODO untuk fitur login"
